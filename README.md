@@ -326,4 +326,4 @@ anything moves.
 
 ---
 
-*Naveed Ali — DecodeLabs Robotics & Automation Internship, Batch 2026*
+*ALi Hassan — DecodeLabs Robotics & Automation Internship, Batch 2026*
